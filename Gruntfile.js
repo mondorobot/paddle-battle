@@ -8,7 +8,7 @@ module.exports = function(grunt) {
 
   var config = {};
 
-  config.root = 'www/includes/paddle-battle';
+  config.root = 'www/';
   config.stylesheets = config.root + '/stylesheets';
   config.javascripts = config.root + '/javascripts';
   config.jsbin = config.javascripts + '/generated';

@@ -1,0 +1,10 @@
+{
+  "name": "log-amd",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": "1.7.1",
+    "requirejs": "2.1.5"
+  }
+}
