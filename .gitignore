@@ -1,0 +1,36 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Ignore sass cache
+.sass-cache/
+
+# Ignore generated docs
+docs/
+
+# Ignore modules installed for grunt
+node_modules/
+
+# Ignore bower components
+#bower_components/
+
+# Ignore generated files
+generated/
+
+# Ignore generated sprites
+sprite-s??????????.png
+sprite-retina-s??????????.png
+
+# It is recomended you add lock files to the 
+# repo in for your projects. Remove the line below.
+# *.lock
+
+# Ignore bundler files
+.bundle

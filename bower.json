@@ -1,0 +1,16 @@
+{
+  "name": "winter-park-homepage",
+  "version": "0.1.0",
+  "dependencies": {
+    "log-require": "1.0.2",
+    "jquery": "1.10.2",
+    "requirejs": "2.1.5",
+    "requirejs-text": "2.0.5",
+    "backbone-amd": "1.1.0",
+    "underscore-amd": "1.5.2",
+    "modernizr": "2.6.3",
+    "jquery-knob": "1.2.3",
+    "selectize": "mondorobot/selectize.js"
+  },
+  "devDependencies": {}
+}
