@@ -57,4 +57,6 @@ In order to deploy to Heroku, you will need to edit your .git/config and add the
     fetch = +refs/heads/*:refs/remotes/heroku/*
 ```
 
-**Develop*:** `$ git push develop develop:master`
+**Development*:** `$ git push develop develop:master`
+
+**Production*:** `$ git push develop develop:master`
