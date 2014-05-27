@@ -169,12 +169,10 @@ hr {
     padding-bottom: 75%; // This is the aspect ratio
     height: 0;
     overflow: hidden;
-    
-	padding-left: 100px;
-	padding-right: 100px;
+
+
     padding-top: 35px;
-   
-      0 0 0 5px hsla(27, 53%, 50%, 1);
+	0 0 0 5px hsla(27, 53%, 50%, 1);
 }
 .google-maps iframe {
     position: absolute;
