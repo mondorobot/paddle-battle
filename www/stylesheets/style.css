@@ -119,6 +119,13 @@ hr {
 @media all and (max-width: 721px) {
 	.fb-invite .fb_iframe_widget{
 		display: none;
+		}
+	.messaging{
+		font-size: 20px;
+		}
+	.dynomite{
+		font-size: 20px;
+		
 	}
 
 }
