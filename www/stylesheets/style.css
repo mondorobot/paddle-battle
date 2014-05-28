@@ -186,6 +186,8 @@ and (max-device-width : 480px) {
 	  0 0 0 5px hsla(27, 53%, 50%, 1);
 	background-color: white;
 	
+	margin: 0 auto;
+	max-width: 760px;
 }
 
 .google-maps {
