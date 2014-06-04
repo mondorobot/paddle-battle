@@ -159,7 +159,7 @@ and (max-device-width : 480px) {
 		font-size: 40px;
 		-webkit-text-stroke-width: 2px;
 	}
-	}
+}
 	
 .fb-link{
 	text-align: center;
@@ -186,13 +186,19 @@ and (max-device-width : 480px) {
 	border-color: #951011;
 	border-radius:15px;
 	color: #951011;
-	height: 770px;
 	text-transform:uppercase;
 	max-width: 100%;
 	margin: 0 auto;
 	padding: 10px;
 	font-size: 14px;
 	
+}
+
+.instagram-feed iframe {
+  height: 765px;
+  width: 100%;
+  border: 0;
+  overflow: hidden;
 }
 
 .instagram-type{
