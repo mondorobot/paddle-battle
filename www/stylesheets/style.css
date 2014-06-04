@@ -136,6 +136,10 @@ hr {
 	.dynomite{
 		font-size: 20px;
 	}
+	.instagram-type p{
+		font-size: 40px;
+		-webkit-text-stroke-width: 2px;
+	}
 
 }
 
@@ -150,6 +154,10 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) { 
 	.fb-invite{
 	display: none;
+	}
+	.instagram-type p{
+		font-size: 40px;
+		-webkit-text-stroke-width: 2px;
 	}
 	}
 	
