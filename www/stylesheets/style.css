@@ -33,6 +33,7 @@ hr {
 	max-width: 900px;
 	margin: 0 auto;
 	padding-bottom: 15px;
+	font-family: helvetica, arial, sans-serif; 
 }
 
 .groovy{
@@ -135,6 +136,7 @@ hr {
 	.dynomite{
 		font-size: 20px;
 	}
+
 }
 
 @media all and (min-width:721px) {
@@ -183,6 +185,20 @@ and (max-device-width : 480px) {
 	font-size: 14px;
 	
 }
+
+.instagram-type{
+	color: #951011;
+	text-align: center;
+	text-transform:uppercase;
+	font-weight: 900;
+	font-size: 60px;
+	-webkit-text-stroke-width: 3px;
+	-webkit-text-stroke-color: #cbcbb1;
+	text-shadow: 0px 8px 0px rgba(69, 15, 13, 1);
+	padding-top: 25px;
+	padding-bottom: 5px;
+}
+
 .fb-invite{
 	text-align: center;
 	
