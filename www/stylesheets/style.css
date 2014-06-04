@@ -26,6 +26,15 @@ hr {
 	//-webkit-text-stroke-color: #410e0b;
 }
 
+.instruction-text{
+	text-align: center;
+	font-size: 18px;
+	color: #951011;
+	max-width: 900px;
+	margin: 0 auto;
+	padding-bottom: 15px;
+}
+
 .groovy{
 	background-color: #f2f2f2;
 	border:5px solid;
