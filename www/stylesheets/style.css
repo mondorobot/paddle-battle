@@ -186,12 +186,12 @@ and (max-device-width : 480px) {
 	border-color: #951011;
 	border-radius:15px;
 	color: #951011;
+	height: 770px;
 	text-transform:uppercase;
 	max-width: 100%;
 	margin: 0 auto;
 	padding: 10px;
 	font-size: 14px;
-	height: 765px;
 	
 }
 
