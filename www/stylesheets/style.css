@@ -194,13 +194,6 @@ and (max-device-width : 480px) {
 	
 }
 
-.instagram-feed iframe {
-  height: 765px;
-  width: 100%;
-  border: 0;
-  overflow: hidden;
-}
-
 .instagram-type{
 	color: #951011;
 	text-align: center;
